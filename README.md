@@ -6,6 +6,6 @@ i installed bootstrap
 i installed navbar using bootsrap
 i installed mui'
 had problems with it so i searched about it
-i installed a slider using mui 
+i installed a slider using mui  and ai from visual studio
 made 8 commits 
  pushed it to github
