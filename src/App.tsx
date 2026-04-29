@@ -1,16 +1,10 @@
 // src/App.tsx
-import Navbar from './navbar/navbar';
-import Slider from './slider/slider';
 
-function App() {
-  return (
-    <>
-      <Navbar />
-      <div style={{ padding: '20px' }}>
-        <Slider />
-      </div>
-    </>
-  );
-}
+import Login from './features/auth/login/login';
+
+
+const App = () =>{
+  return <Login/>
+};
 
 export default App;
