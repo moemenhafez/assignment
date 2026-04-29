@@ -11,4 +11,4 @@ made 8 commits
  pushed it to github
  removed navbar and sliders
 ADDED login page
-removed bootstrap from my react
+removed bootstrap from my react fatched from stack overflow
