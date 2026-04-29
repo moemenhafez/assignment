@@ -9,3 +9,6 @@ had problems with it so i searched about it
 i used a slider using mui  and ai from visual studio
 made 8 commits 
  pushed it to github
+ removed navbar and sliders
+ADDED login page
+removed bootstrap from my react
