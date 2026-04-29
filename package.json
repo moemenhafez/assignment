@@ -14,9 +14,12 @@
     "@emotion/styled": "^11.14.1",
     "@material/slider": "^14.0.0",
     "@mui/material": "^9.0.0",
+    "@tailwindcss/cli": "^4.2.4",
+    "@tailwindcss/vite": "^4.2.4",
     "bootstrap": "^5.3.8",
     "react": "^19.2.5",
-    "react-dom": "^19.2.5"
+    "react-dom": "^19.2.5",
+    "tailwindcss": "^4.2.4"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

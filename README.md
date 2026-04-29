@@ -12,3 +12,4 @@ made 8 commits
  removed navbar and sliders
 ADDED login page
 removed bootstrap from my react fatched from stack overflow
+installed tailwind.css using their main website . Installing Tailwind CSS as a Vite plugin is the most seamless way to integrate it with react
