@@ -13,3 +13,4 @@ made 8 commits
 ADDED login page
 removed bootstrap from my react fatched from stack overflow
 installed tailwind.css using their main website . Installing Tailwind CSS as a Vite plugin is the most seamless way to integrate it with react
+added file named layout with 2 file authlayout and main layout and then made a layout component using copilot
